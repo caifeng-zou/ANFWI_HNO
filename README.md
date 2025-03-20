@@ -1,4 +1,5 @@
 # ANFWI_HNO: Ambient Noise Full Waveform Inversion with Helmholtz Neural Operator
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15061657.svg)](https://doi.org/10.5281/zenodo.15061657)
 
 ## Introduction
 This repository provides code for the paper [Ambient Noise Full Waveform Inversion with Neural Operators](https://doi.org/10.48550/arXiv.2503.15013).
