@@ -30,7 +30,7 @@ We welcome any comments or questions regarding this work. To cite this work:
       url={https://arxiv.org/abs/2503.15013}, 
 }
 ```
-For more method details, we refer to a closely relevant paper: [Deep Neural Helmholtz Operators for 3D Elastic Wave Propagation and Inversion](https://academic.oup.com/gji/article/239/3/1469/7760394)
+For more method details, we refer to a closely relevant paper [Deep Neural Helmholtz Operators for 3D Elastic Wave Propagation and Inversion](https://academic.oup.com/gji/article/239/3/1469/7760394) and the [repository](https://github.com/caifeng-zou/HelmholtzNO).
 
 
 Caifeng Zou\
