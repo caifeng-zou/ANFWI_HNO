@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+title: 'ANFWI_HNO: First release'
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Caifeng
+    family-names: Zou
+    email: czou@caltech.edu
+    affiliation: California Institute of Technology
+    orcid: 'https://orcid.org/0000-0001-9445-7594'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.15061657
+repository-code: 'https://github.com/caifeng-zou/ANFWI_HNO'
