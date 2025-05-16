@@ -288,7 +288,7 @@ def brocher_vp_from_vs(vs):
     return vp
 
 def lp_prior_single(v, mean, std, eps, coef, p, vmean, vstd):
-    # denormalize
+    # denormalize, 
     v = v * (std + eps) + mean
     L = (((v - vmean) / vstd) ** p).mean()
     return L * coef
