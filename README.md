@@ -2,7 +2,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15061657.svg)](https://doi.org/10.5281/zenodo.15061657)
 
 ## Introduction
-This repository provides code for the paper [Ambient Noise Full Waveform Inversion with Neural Operators](https://doi.org/10.48550/arXiv.2503.15013).
+This repository provides code for the paper [Ambient Noise Full Waveform Inversion with Neural Operators](https://doi.org/10.1029/2025JB031624).
 
 ## File Description
 - **code**: 
@@ -21,15 +21,7 @@ environment.yml
 ## Citations
 We welcome any comments or questions regarding this work. To cite this work:
 ```
-@misc{zou2025ambientnoisewaveforminversion,
-      title={Ambient Noise Full Waveform Inversion with Neural Operators}, 
-      author={Caifeng Zou and Zachary E. Ross and Robert W. Clayton and Fan-Chi Lin and Kamyar Azizzadenesheli},
-      year={2025},
-      eprint={2503.15013},
-      archivePrefix={arXiv},
-      primaryClass={physics.geo-ph},
-      url={https://arxiv.org/abs/2503.15013}, 
-}
+Zou, C., Ross, Z. E., Clayton, R. W., Lin, F.-C., & Azizzadenesheli, K. (2025). Ambient noise full waveform inversion with neural operators. Journal of Geophysical Research: Solid Earth, 130, e2025JB031624. https://doi.org/10.1029/2025JB031624
 ```
 For more method details, we refer to a closely relevant paper [Deep Neural Helmholtz Operators for 3D Elastic Wave Propagation and Inversion](https://academic.oup.com/gji/article/239/3/1469/7760394) and the [repository](https://github.com/caifeng-zou/HelmholtzNO).
 
