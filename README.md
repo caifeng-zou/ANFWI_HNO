@@ -21,7 +21,7 @@ environment.yml
 ## Citations
 We welcome any comments or questions regarding this work. To cite this work:
 ```
-Zou, C., Ross, Z. E., Clayton, R. W., Lin, F.-C., & Azizzadenesheli, K. (2025). Ambient noise full waveform inversion with neural operators. Journal of Geophysical Research: Solid Earth, 130, e2025JB031624. https://doi.org/10.1029/2025JB031624
+Zou, C., Ross, Z. E., Clayton, R. W., Lin, F.-C., & Azizzadenesheli, K. (2025). Ambient noise full waveform inversion with neural operators. Journal of Geophysical Research: Solid Earth, 130(11), e2025JB031624. https://doi.org/10.1029/2025JB031624
 ```
 For more method details, we refer to a closely relevant paper [Deep Neural Helmholtz Operators for 3D Elastic Wave Propagation and Inversion](https://academic.oup.com/gji/article/239/3/1469/7760394) and the [repository](https://github.com/caifeng-zou/HelmholtzNO).
 
